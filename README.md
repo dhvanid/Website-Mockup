@@ -5,4 +5,4 @@ This is a simple one page website mock up design of farm vegetables created in A
 
 **Farm to Table**
 
-<img src="/mock-images/Website_Mockup.PNG">
+<img src="/mock-images/Website_Mockup.png">
